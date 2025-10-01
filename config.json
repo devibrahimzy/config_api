@@ -1,6 +1,8 @@
 {
-  
-  "link_Update": "https://example.com",
-  "link": "https://example.com",
-  "msg": "You need to install VideoExPlayer to play videos"
+  "S_msg_update": "You need to install VideoExPlayer to play videos",
+  "S_link_update": "https://secondappupdate.com",
+  "M_msg_update": "Please update to the latest version.",
+  "M_link_update": "https://mainappupdate.com",
+  "app_version": "1.2.3"
 }
+
